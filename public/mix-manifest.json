@@ -1,0 +1,14 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/theme.min.js": "/js/theme.min.js",
+    "/css/fontawesome.min.css": "/css/fontawesome.min.css",
+    "/css/theme.min.css": "/css/theme.min.css",
+    "/css/editor.min.css": "/css/editor.min.css",
+    "/css/app.css": "/css/app.css",
+    "/css/bootstrap.min.css": "/css/bootstrap.min.css",
+    "/js/jquery/jquery.min.js": "/js/jquery/jquery.min.js",
+    "/js/jquery/jquery.min.map": "/js/jquery/jquery.min.map",
+    "/js/bootstrap/bootstrap.bundle.min.js": "/js/bootstrap/bootstrap.bundle.min.js",
+    "/js/bootstrap/bootstrap.bundle.min.js.map": "/js/bootstrap/bootstrap.bundle.min.js.map",
+    "/js/editor/editor.min.js": "/js/editor/editor.min.js"
+}
